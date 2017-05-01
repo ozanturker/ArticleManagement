@@ -23,6 +23,7 @@ public class ArticleDaoImp implements ArticleDao {
     public ArticleDaoImp() {
         articleList = new ArrayList<Article>();
         arraylistIterator = new ArraylistIterator(articleList);
+        //git
     }
 
     @Override
