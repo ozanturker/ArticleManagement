@@ -7,7 +7,7 @@ package Oop;
 
 /**
  *
- * @author ozan
+ * @author ozan11
  */
 public class Article {
 
